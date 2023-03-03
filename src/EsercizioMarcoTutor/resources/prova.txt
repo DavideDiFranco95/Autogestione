@@ -1,0 +1,5 @@
+Ciao sono Davide e sto facendo un esercizio di Marco
+però sono cose che non ricordo e probabilmente me remprovera
+alcune parole a caso per testare
+magari il primo metodo quello che conta le parole e basta
+senza spazi ne niente semplicemente parole a caso
