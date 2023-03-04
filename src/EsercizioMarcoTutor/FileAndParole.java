@@ -1,13 +1,11 @@
 package EsercizioMarcoTutor;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
 
 
 public class FileAndParole{
@@ -72,6 +70,25 @@ public class FileAndParole{
         }
         return result;
     }
+    
+    public HashMap<String,Integer> paroleInRima(Path file)throws IOException{
+        FileReader fileReader = new FileReader(file.toFile());
+        BufferedReader bufferedReader = new BufferedReader(fileReader);
+        HashMap<String,Integer> result = new HashMap<>();
+        while (bufferedReader.ready()){
+            String riga = bufferedReader.readLine();
+            String[] parole = riga.split(" ");
+            for (String parola : parole){
+                if (parola.contains("role")){
+                    System.out.println(parola);
+                }
+
+            }
+        }
+        return result;
+    }
+
+
 }
 
 

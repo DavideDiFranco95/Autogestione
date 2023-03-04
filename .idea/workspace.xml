@@ -4,33 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6bc43d6-b20e-4ea1-8d4d-340b87517d86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Autogestita.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03_03_2023/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03_03_2023/EnumUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03_03_2023/Esercizio.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03_03_2023/Feedback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03_03_2023/HolidayHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03_03_2023/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03_03_2023/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EsercizioMarcoTutor/FileAndParole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EsercizioMarcoTutor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EsercizioMarcoTutor/resources/AliceInWonderland.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EsercizioMarcoTutor/resources/prova.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopCycle/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoopCycle/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PoorPigs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PoorPigs/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers/Start.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers/StartBoolean.java" afterDir="false" />
+    <list default="true" id="c6bc43d6-b20e-4ea1-8d4d-340b87517d86" name="Changes" comment="Esercizio da finire">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EsercizioMarcoTutor/FileAndParole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EsercizioMarcoTutor/FileAndParole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EsercizioMarcoTutor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EsercizioMarcoTutor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EsercizioMarcoTutor/resources/prova.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/EsercizioMarcoTutor/resources/prova.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Start">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoopCycle.ForEachLoop" />
       <module name="Autogestita" />
@@ -134,8 +112,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Start" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Start" />
         <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.StartBoolean" />
@@ -151,6 +129,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677231403480</updated>
     </task>
+    <task id="LOCAL-00001" summary="Esercizio da finire">
+      <created>1677841543130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677841543130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esercizio da finire" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio da finire" />
   </component>
 </project>
